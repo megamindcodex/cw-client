@@ -4,7 +4,7 @@ import Logo from "@/components/Logo.vue";
 import { ref } from "vue";
 import { useRoute } from "vue-router";
 const route = useRoute();
-const celebName = ref("Halle Berry");
+const celebName = ref("Angelina jolie");
 
 const currentYear = ref(new Date().getFullYear());
 </script>

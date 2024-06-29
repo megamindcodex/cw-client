@@ -334,7 +334,8 @@ const toggle_hasRead = async (receiverName, condition) => {
   row-gap: 10px;
   width: 100%;
   height: 80%;
-  background-color: #dddddd;
+  /* background-color: #dddddd; */
+  background-color: #3c4a5c;
   padding: 0.5rem;
   overflow-y: scroll;
   scroll-behavior: smooth;
@@ -345,7 +346,7 @@ const toggle_hasRead = async (receiverName, condition) => {
   width: 100%;
   height: 10%;
   align-items: center;
-  background-color: trsansparent;
+  background-color: #222831;
 }
 
 .input {
@@ -400,7 +401,7 @@ const toggle_hasRead = async (receiverName, condition) => {
   position: relative;
   padding: 0.5rem;
   border-radius: 0px 10px 10px 5px;
-  background-color: #2a3e51;
+  background-color: #1c2935;
   margin-right: 3rem;
 }
 
@@ -419,7 +420,7 @@ const toggle_hasRead = async (receiverName, condition) => {
 .sender_txt span {
   padding: 0.5rem;
   border-radius: 10px 0px 5px 10px;
-  background-color: #2f5071;
+  background-color: #1c344d;
   margin-left: 3rem;
 }
 
