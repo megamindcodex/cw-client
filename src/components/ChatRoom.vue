@@ -293,7 +293,8 @@ const toggle_hasRead = async (receiverName, condition) => {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #dddddd;
+  /* background-color: #dddddd; */
+  background-color: #3c4a5c;
 }
 
 .head {
